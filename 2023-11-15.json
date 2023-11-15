@@ -1,0 +1,26 @@
+{
+  "name": "James Bradley",
+  "age": 39,
+  "address": {
+    "street": "Pikapi Pike",
+    "city": "Rempucoz",
+    "state": "MO",
+    "zip": "72451"
+  },
+  "contact": {
+    "phone": "(989) 445-9948",
+    "servicePhone": "800191415"
+  },
+  "birthday": "1995-08-22T02:05:56.402Z",
+  "ip": "247.154.37.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Nel we ma isogi wuh nekob momred ogpit dise eho kelozeok gicewa kirod ge kokweza si jorubco zuri. Eh sebvopu ramuma kod geomumo hizefud ruod hewmupam socoko hul ta maju uk zos rimlom majhushuz ajarsef nusfi. Pi bupin sujvam dopuga donbaefo puknup ozozobat giad otabipose guh ro suj ofnoic. Gi ot na ovujij ewpaz fena jimkadu rehiw tiret wadafru ti ipooz hoda. Zaih ureabowu odi nara jac ciz luabipu nuhvuva od hewva velton wugdip zubejom civove ovuel.",
+    "bio": "Udvopeh palwibmu ajeom mesu zoregu mutidu hulijija iheebu bojkab worsukic zedus je. Taotwem nestanro begigu hoed utili pezvo ga tum tow zus ga hewe roumba raltiw sa cecuk. Masa busamipab hewkugar ibja hehbezeze amgamu burav ve tu muatu pow higludaf akeogso vonewrav nu coj fif."
+  },
+  "apiKey": "e6dd0104305b72e2d4e61f0c2314f1622840d18a466b66b2748f63f8f8398490",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
