@@ -1,0 +1,26 @@
+{
+  "name": "Nannie Schmidt",
+  "age": 55,
+  "address": {
+    "street": "Aguf River",
+    "city": "Ulfucu",
+    "state": "KS",
+    "zip": "00829"
+  },
+  "contact": {
+    "phone": "(841) 344-9993",
+    "servicePhone": "800528239"
+  },
+  "birthday": "1964-01-03T14:14:36.106Z",
+  "ip": "60.174.185.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Res talu efo odmer fazravsa jufdalbe gelvofok ojpak tutam fekunrub hafeveci edecopju ejizi fe zovnabsi. Pupojdu lejuc lumzew fedef cud puvawij beugufif vig ret he piw hocpufam puv nib kim ledowwo caggo vitaf. Komluz guchobnin ala vij gibboep maw fuhjocjip suvnasmub duvo saedajet lit de urevehmub.",
+    "bio": "Fevgif miicu rujhiete ewopugu deaja da lepop pus agdeva huv pu oro sum gorbew vim wupafku fajme farogbok. Movus egaduv ehtapjo viwaci toh coisrob ka zodzinu hi racmi ci bipace igivokle jefhu vumrurok heha utfutda pevi. Ocavo atu ra ulvabsud ah diw epjo kannit node opke rez ki owwofho juek lo rinkec weviawu mizto."
+  },
+  "apiKey": "59c15c5cb0ed9aad98345fb5920ccd471c55bf05bcf14bfe62d458f2404dc789",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
