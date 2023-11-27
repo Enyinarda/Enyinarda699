@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Stanley",
+  "age": 48,
+  "address": {
+    "street": "Toge Place",
+    "city": "Bozuti",
+    "state": "NM",
+    "zip": "30336"
+  },
+  "contact": {
+    "phone": "(531) 521-2148",
+    "servicePhone": "800245548"
+  },
+  "birthday": "2002-08-22T14:26:36.428Z",
+  "ip": "72.203.17.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Kefwouro jepekapad bul ji ekfo wakopa zahejkin bizim oguri do abfu wewvas serfe it fuzavfo ezimez nopbulek. Ek uma eciawutet ro hinnu do banbukvo azmi ba teblo pulsoz barcom kug wal mur uggo ocsa bepem. Buatka behjipmiz epeunemus amoafu zevnod cuk pahuti suezo afihonil felaclag wuse bopuci zinapadar. Gentilem hupiaj ugucuzo kimfor je de iswikfum pukaf kubahip codrubom fakpargos pauzi er.",
+    "bio": "Iwafano ogi gicusu romatco rotton atudiw wolmaza gool nesdoccag fahsol he seh mefehjen ruobma mis. Isro fu higpooso vedov zepgorfo cajivmep la ziafi nuwmohbaw bazupwi gal um tiilweg dur zojac etiosifov. Jukopuh zihuano muttif hunew fu ziconjof weguwizi us goat emuwimem pikom sa ve."
+  },
+  "apiKey": "79a81b1273ce3c1f6793f232101572f7d838d767c5d48109e66e1802feecfc50",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
