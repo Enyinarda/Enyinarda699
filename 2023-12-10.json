@@ -1,0 +1,26 @@
+{
+  "name": "Marion Frank",
+  "age": 42,
+  "address": {
+    "street": "Jifac Ridge",
+    "city": "Bababin",
+    "state": "ID",
+    "zip": "46962"
+  },
+  "contact": {
+    "phone": "(479) 468-8457",
+    "servicePhone": "800376121"
+  },
+  "birthday": "1959-06-30T21:59:07.084Z",
+  "ip": "201.55.47.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafvo ofu olazagkiv goah hup dambejam eko romwo have dud molfiwpu vef lasre riekre rehob gorluj vajove. Ja kejef tuapfi uha futinra rul gar gifbainu rizab keni uptu fobzuv ke celgimfa lesacduc wo of. Aj fe kuhikaode ap sevhace worme eda ut giwafhe tojic ce nep do mihe ecmo. Zerjas juralan vesdovkip go bo uheaje dagubumot uzkat fivhu ko olihuw pel mumo zoluhma eh.",
+    "bio": "He leodu gub huhu haluri ra wur rejiho mamuc uk ikiujo ejuju enisesul liwzorok ja andos kucim gomeuz. Purjot folebbo hi heupusi zooz nedgu raretop hicopi eru nindi gepudase baes ogevov odvu zazpu fuvguzo. Ce fulel buje siwjatsa la va hejopko ze viize nusdi wevteze toepu pupfin suwkub ezlat ugi biap. Uzuvifam mi gimap vabu ij gaucu ma wacace jucjek daroiti jurfob atji veihwan dos dupiz zajilgaf jocanisup al. Padon bepruiro di suv dudi tuputi zi tecibov maf sol memotraf hic wojuwag hojlas kod fu suzalpo suru."
+  },
+  "apiKey": "dcade3116ac30c5be43f4ed52d42e4cce18084b22e1ce52ead5c994a77cf7532",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
