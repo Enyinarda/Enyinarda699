@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Cortez",
+  "age": 57,
+  "address": {
+    "street": "Dawmup Pike",
+    "city": "Hobigiw",
+    "state": "CO",
+    "zip": "20677"
+  },
+  "contact": {
+    "phone": "(584) 966-5663",
+    "servicePhone": "800869374"
+  },
+  "birthday": "1999-11-30T05:58:44.100Z",
+  "ip": "107.253.93.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Sipninam isipo niffiuda cu oci gopif ru ir nabehi zisfuz osuiba hu goznas dubar boim zavu. Isuvib sogoveolu kik racifriv pupsu ohu ow emu hec ab ta merotozak. Mubzafpev feipigoj wot veabuka upivas pi dufli no puvudfo har gujzo rawcibci huzizep gawokidip.",
+    "bio": "Bi oholik eseaci dew ani cigiv enmaja wumcotik ene wibur zuzo keksi ucsakfe hezus cora zaguwmuc ocu icehenag. Awbuor mope dihna kafamufu gokordu fubfo jeghe esioma zugu tarkifruc keus matit woowuno pu vuubemu miregi holkotwi. To so righinov zadce wek etudif limabel ajpuza nijso mikos zu asa."
+  },
+  "apiKey": "a505d0fc0326412e60847d737288b9c2113a2365c96d5650eac2a6e3a8aea676",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
