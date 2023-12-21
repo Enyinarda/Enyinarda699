@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Bryan",
+  "age": 21,
+  "address": {
+    "street": "Enemit Square",
+    "city": "Simenata",
+    "state": "MS",
+    "zip": "27410"
+  },
+  "contact": {
+    "phone": "(208) 827-6023",
+    "servicePhone": "800425975"
+  },
+  "birthday": "1989-01-03T01:14:38.556Z",
+  "ip": "117.25.240.111",
+  "foo": "bar",
+  "profile": {
+    "about": "En uwla owo tav sigisu kuspaz mowu ogo lifbabes de wezihik sivba fuhu. Wo revnagi fimaz ufab wahlicuk heno of tul bukac anu siredu up wec uba dommokof kujbisbi ej uvogaz. Vol dozezvow wiri dow sabuice aba pogkebeh gojte bamcoj valwuzmuv ja ba sif wib uku.",
+    "bio": "Sit hawim gof udu hit bifrieb lo zep sihleete vid tajsuwdo la uz sit puluj mul cu. Seb los vodoh vicfos ene okofasu cu fogpepa di zuk za vi. Vi kuhe keg wirosaije rehvo upranih lirefa dedjuvse niot lumak ugaredcur pacut hiewe tarpos. Momigifi va wifaw osadifa ucvatel odazepda wab lar packi lozouni hav itzorop. Ugha tuol zuirapo zuvwev zuz hog jumec ped uje piw keh pewtu hooribu."
+  },
+  "apiKey": "77b6e5934f15a81d665b899d3091ede76bf9c03e36f1bfecc97dc3854e19bfdf",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
