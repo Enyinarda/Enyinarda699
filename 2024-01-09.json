@@ -1,0 +1,26 @@
+{
+  "name": "Edna Simpson",
+  "age": 53,
+  "address": {
+    "street": "Omoh View",
+    "city": "Kedahvo",
+    "state": "NJ",
+    "zip": "25698"
+  },
+  "contact": {
+    "phone": "(211) 373-6001",
+    "servicePhone": "800819799"
+  },
+  "birthday": "1976-11-01T04:19:41.194Z",
+  "ip": "87.139.206.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Itacozuj alarer tufzecek kanfal viboj lewacdig mirob sohe tatkadfo ecralmof kepdof ami dac mocavuar wu puzuc mursuvez duslojac. Jo nomun seh ibe ug dof lah leg veletobos usi kopsud uf kemposu sosedu wub ces lefos. Sijfek befer uwefeh asnovol asbesij ano tileg evihfi nu befko wosul ne rukato. Wimnud towe jed basnebo aralacib ekemoluf adivagte oki nu tofvaik dap pik avzahte.",
+    "bio": "Om cirid juvbo vajfop ekovo ruzlev poz rawu tavogkon watusde beumi lut ban. Suzejkuz zaftuogo conavof olmuumu nefogze gopof lezcuf fegu jozve delmaj usihaneg uz zizatsum ka mugazrom rew how berwus. Og izwe hu zozbajric bezsaznig pibeh kildivife sef nof hid wapinaar banlek bi ep hobat vehfupon."
+  },
+  "apiKey": "75e10d5c3042aa5cc5c6841be1f4d83992c64c043d536e5166e3702606fd1fed",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
