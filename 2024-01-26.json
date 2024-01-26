@@ -1,0 +1,26 @@
+{
+  "name": "Eric Fowler",
+  "age": 37,
+  "address": {
+    "street": "Cupen Street",
+    "city": "Lasoma",
+    "state": "CA",
+    "zip": "92598"
+  },
+  "contact": {
+    "phone": "(839) 708-6059",
+    "servicePhone": "800876456"
+  },
+  "birthday": "1976-06-29T13:41:54.319Z",
+  "ip": "190.144.59.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Cisica at zewebjuf keloma ewa unoufutof vi doabaaha jardugod ot rujbofu uw hom. Reguem rof dimvav oto havjeki osrade koguriol juj vidafgi keetwep siidima alazha. Iho kizepa eslipun zejragmi awevi kosjeb borsef zu ru bu uhwucka biisetir cohu rak zunolu. Me upeoco zikcoigi et useogec jokoji sazop lozluf ubu opo zajol jonbu diizu noozmu te azesu ilohosvam uw. Cunnijat dadnof ovfit peid za oraijcib ivaujeca millu hufewlew megazi bag bi. Enug hevso pedives cab ute nap ulerig wogec zocfu fiinohi sasa touhalod bodgigar avsob gaj he seef. Atimeso nef ojolefuw hadumla wi he doece ak wujwipop gik gagek ubumen ohumpuj wajped.",
+    "bio": "Pow korebu gaigumij cajmec heodra uw sinwa vahoktu som fuwubwo viisa oci asti eg lampiov. Molka acgo gusuzjiv biftu logku sow usowahac vegofo kecfothi bo ciuw ed wu koun. Habcoh ililodiw bakiliz javpem ifolu nu nal kodati uzivato mohru fasaldow bitja he lot."
+  },
+  "apiKey": "c0a41ac8c9855deeed702a3d4fe81574c2e54c0c7f889bc9b6ab089649e34a17",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
