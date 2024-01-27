@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Harvey",
+  "age": 21,
+  "address": {
+    "street": "Higi Path",
+    "city": "Mercibi",
+    "state": "NC",
+    "zip": "75525"
+  },
+  "contact": {
+    "phone": "(379) 202-8852",
+    "servicePhone": "800191942"
+  },
+  "birthday": "1972-04-30T15:21:15.030Z",
+  "ip": "1.28.131.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Topusnuj te mouwro jevorub afbih nemvehhub dofi wehveli pema runnecim laip kor wag opeivozac uliguh lir ci fus. Duzu ubviccu li hahke suspedko mumwued itemepfin wibikec re diju ne rumji. Ic sebe hih zon eprof en sajzi kevgofe imjo go ozogihfiz butjil hupi ka pi zujoc. Abunejtu mopopa uhutuh ahobif renup caporu pahiszec atdi gik kifus cuzdo ofael noh ci igijuz timlen laguvdo kobofni.",
+    "bio": "Bihobo muka vej zewo eni nivefrit ubede unah wu mozav pocwe fihebba tup camiluj. Ro zis te ge minu bew ci hudgas ehi kaene dulbohoja kudel jefvo cuprupar vugjaiz puzare ojatikir ubielehis. Witilep defrot duppi jop hiw bilgur dunwi ba deadza pimji ta kedaru sutukac ip."
+  },
+  "apiKey": "0403a6877ca62a2dc4ee652a0422243c2750153513d27e290628876445b39645",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
