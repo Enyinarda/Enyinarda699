@@ -1,0 +1,26 @@
+{
+  "name": "Tony Fowler",
+  "age": 42,
+  "address": {
+    "street": "Nowo Square",
+    "city": "Falaah",
+    "state": "GA",
+    "zip": "52221"
+  },
+  "contact": {
+    "phone": "(965) 540-4486",
+    "servicePhone": "800511516"
+  },
+  "birthday": "2004-12-20T16:02:10.147Z",
+  "ip": "142.111.240.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Luloza bebaho nohutil tuiculi ho dicnep ofrenep la pujsuktit gozav ec tul ake logi zeszuvdug esivehi. Zokegoh huw nak ab pub sefasu arpu japefar puv kedge bifomi wavhubeh dilikze jemad idufijca purgijis teid. Ibetu uwagekod aki li ibcugum nij udawo cotjusgiz labcal gez zuvbidte jindo. Molsit ackadeh teurinon us canow jutawad fogbop kektutged sukoc rucbov cibave bu deb ulto fa uccava vuito.",
+    "bio": "Dipgo pubhilo kakno dapke rubi ma gejci veh ba uporibuz ekali afelidu rubo ma. Asjo vemimtam kefisok cifcena upo uzceh nituzgo hikumpor cifsed ocuwo vucehmad ujij muf lo tih viuwenuj. Cod wifde iguiwicac so lerajek muefadaj uhsujco cuzno bujmipnir busocavi habiko zece iltuje."
+  },
+  "apiKey": "2e1510bc5e703a0e5038288e260b99751caca89fdf05b172e9ebfcd23b608a4d",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
