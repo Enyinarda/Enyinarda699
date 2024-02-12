@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Nguyen",
+  "age": 38,
+  "address": {
+    "street": "Jibhal Boulevard",
+    "city": "Awtuzmo",
+    "state": "MO",
+    "zip": "16561"
+  },
+  "contact": {
+    "phone": "(707) 592-6497",
+    "servicePhone": "800962263"
+  },
+  "birthday": "1983-03-06T15:11:38.171Z",
+  "ip": "100.145.87.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Siigu ka awa ububav guwgofom mowelcu ozufije hewta ir luzo beeh seazgum. Uho curafpoh diwsudtu pebjub izusu uziaja sitew katu osatuehe vufuz fov lal osuvojic la du. Uwu uvierano vojdour hajan gopik topum paotefis ub alaoma ko zesne cib zuv otmo neciluuze molha. Loptis enmecrun devko felo we acu vod wamju astugla jampas uzucem boicefe konoc fintabkag tavih ubebo jugpure.",
+    "bio": "Og nawusiwo idzoczi cite nunged dujdu upnu runlac fowfagi gubo al enuetseg. Afeb volejir zebiz fewu bemole zaj nuhteic jal tatow zamno cawi fo fijviji co gi deleg buhihe. Ahhara ditpito tof pieh inicuwi jot fuv ru zeffechuz liceih oci ic zubu mon pu usogu di. Socfa rij lejsab kuf voca ho nepavij mevrisvi uwitu ranah uhka ezejatlas vimami ugufof mofwinma wu bovkebuh cidnuuc. Duwmak no lipbowciv dizukgu unetup ecoefubi no riv waso tir adsi juwu huv ipelupun."
+  },
+  "apiKey": "2bd4b8126d1f5df0037385324ad41903ea5cfee607d471e35cce68c65147f5cf",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
