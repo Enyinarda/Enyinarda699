@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Young",
+  "age": 53,
+  "address": {
+    "street": "Kacica Place",
+    "city": "Giosva",
+    "state": "MI",
+    "zip": "88972"
+  },
+  "contact": {
+    "phone": "(337) 848-5250",
+    "servicePhone": "800185217"
+  },
+  "birthday": "1969-08-25T18:00:41.840Z",
+  "ip": "1.243.202.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Nacevij mev hojlip ehtefcol upubupeh pacetsa vovizriz ud huh ogkiwwi tuoburel aju roz ladju jiggog vikimhe ef. Obouge zoveb icef og ijsi utufji telimro mos oka wotkow touwere apiur fi cieniufo wuh ada cu nidofi. Babuveowu ze nana fukipus le jawigfa had huhifez cahlukir seap zilor mo irabefew moszi bufiir koagcam komawone.",
+    "bio": "Zogodavi piwujmuw fofho zo op tofkuzza pefor la vajharzo ibte ikoce ri losavre fioghi. Midak zofvilmuc ez icugihe dumet daj feddoge rok defma lukuddol bioku da fikanicu kir. Jo vufizpu zokenme bijac loraaf waj ne kicel sescow nom toba zuiwzop."
+  },
+  "apiKey": "e5ad81341b4f8a7e100cd2f600f1eabbae79d95ac6f8a0165ea3ea9d12623ea5",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
