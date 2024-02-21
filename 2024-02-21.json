@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Kim",
+  "age": 33,
+  "address": {
+    "street": "Uwaela Pass",
+    "city": "Cepigub",
+    "state": "GA",
+    "zip": "27119"
+  },
+  "contact": {
+    "phone": "(670) 714-3902",
+    "servicePhone": "800798265"
+  },
+  "birthday": "1986-08-16T00:06:35.717Z",
+  "ip": "20.22.190.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Jogcarupa rod zubejma ij guw ed jaib ej gigcilew hol ohe uwa jac zeptos. Suvkuh mofaf wi weupsi alu mal jajera alaco ostiles fasu ehga wu. Zutep riluc lemded hobeba ijo lulewec jij pah sakuwzit ovge fo uwolici gale ruguczo nuabekuk mavonaz dugol. Enici ciegihik nuk vimkuhaf kepmi koluwaca ecpimte zej iga witus fe gu dez oge wad lahrer.",
+    "bio": "Juskuze umoliluj he zu cob napru ferev gugben aw de zew ivuvi jupwev. Fatu zunij dauv fo kicca togco ko eniwunu liemvu ame fipumi jekesuvu. Sulca ro tenzaher mu azo rebje fud juvaf ma ku tal uguacareb. Udtu ipogobo wamil ku ninmamiz akzigki gutzog pumjumum iwarop jijir tizicik wezdecaw mownupe motot fi."
+  },
+  "apiKey": "baadb2dd4046aa5381c5e5188c16dfa14ff6de4f0e1fe9e97fb3ed86f30a53ca",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
