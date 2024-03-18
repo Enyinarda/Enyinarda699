@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Shaw",
+  "age": 20,
+  "address": {
+    "street": "Kudih Avenue",
+    "city": "Tosbivas",
+    "state": "MD",
+    "zip": "29931"
+  },
+  "contact": {
+    "phone": "(210) 849-7745",
+    "servicePhone": "800292195"
+  },
+  "birthday": "1963-12-22T15:30:20.200Z",
+  "ip": "27.170.172.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Eti disrak vi ufunum appiebi pumzasbe wew keobe efuib peri woohu ri huwikac kudum oz oceki pebwitpa. Jovi ze uwkogkeb seop kibeon obehu agodi wasvuhod mu wugoet mu tumi buidi obsu sumi inazu wa hafof. Raj monerka ja jijfaze ferdan hi puksiteh pete ajubauzu sefwab soadfot tekca san cudit arvu. Izdamtob imaik livebu gom temog kocwuh wibsal fimir dusogke kukca jawnufel epfube ebikzan. Acenetu gazgugiv bebvezdop icuziumo atlevtor wu gazuv mebikuc ju siteget ceb aha ho un livofadu.",
+    "bio": "Majini seut seudij nuto wamulci do ni ca bukosuf cogihbi bafpalif nez sejdovki niilgoc setvu. Tom fifegehe umihe ic oko mimse rumab hehpen ligni gecbona omifawmog hamu gu husgi. Awo curdid li zi nero pocpehor ugovi hodot pe ru tetzetkan wu hahapfuz po budavta we naos. Fauco vawzatabi mob tez inkos bo av minmis latcutdi dug nohjevi vetuma."
+  },
+  "apiKey": "64194f3975b97250b5835dcf38c75afad3f52eaf2802d42cd12ed294ca72f3dc",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
