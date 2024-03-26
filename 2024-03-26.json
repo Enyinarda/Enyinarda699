@@ -1,0 +1,26 @@
+{
+  "name": "Fred Arnold",
+  "age": 34,
+  "address": {
+    "street": "Ratva Boulevard",
+    "city": "Foksakan",
+    "state": "AL",
+    "zip": "33240"
+  },
+  "contact": {
+    "phone": "(715) 217-6060",
+    "servicePhone": "800261245"
+  },
+  "birthday": "2004-10-11T07:41:43.724Z",
+  "ip": "10.130.212.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Gijuchu wateska cujwaze favde ce venkezu wupewe mu ruhceg pukwa jop ge joh dair rufove. Nevviwac wuj zi dazpih zodbemvo dagguji nijgi ipekezare vuvaez sa hico ih oc wobobale. Dir vavoc mab tumip gurweiti mug li hurok ruf kor ihoasvok bazac og duvtigmuf kimirakuc cef utitehib gaf. Avo pe isulek ofa waja colcir ufkel vik feoc buhbuci gober bovap zauvu ur mu. Ve utovozmi rasaksi er cudhibi ma eg zik vurejo jeta riuso uba zik ha fiwek jokakhem dobne ecdueho. Zo tegoci pi lokafpid ak voskova afife tatifij wapo vimpaduso nochutte zapjuftu seom weve ej.",
+    "bio": "Sebsuw opa ar giiji cagma varon aj datok ca pahgi miro fahbebpiv horiv jiropo ton fiz ud. Gasenpiw mil lez ovu tabfal ronebe femo wadupe nip pid ma uhepol. Ju wop no ahu wudamuw otsaav damavevo osilovki hekam hisucho dem ror seb ta zufapbur."
+  },
+  "apiKey": "a54b325624275bc694fef5add170e82c36f0f29a3356a4ada4263fb36aea4b0d",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
