@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve George",
+  "age": 47,
+  "address": {
+    "street": "Devgar Square",
+    "city": "Sabizam",
+    "state": "MD",
+    "zip": "70515"
+  },
+  "contact": {
+    "phone": "(567) 915-8295",
+    "servicePhone": "800334252"
+  },
+  "birthday": "1993-12-26T09:19:21.466Z",
+  "ip": "95.177.96.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Dom ajzajap mirgi wediba mo es uw bonnik mob osigomid ucadil zuabifu. Newob cutno vinojni ihuas ime do deobemu weezoja tesu ula me uzila ar iwu walaz. Fuvovezid hor so rimodolu do vuadij bazozmi uzowisrec ke tulifgiw dozpigi meimeco rutokfig tobaca lulumjut oco sumsaz.",
+    "bio": "Puw cihnato fecmet ga lu ge va olusas uznuvac ceberon sihji miw akowumfa olfopuj podonlob metrotup job. Nufnu apuzufmoc gapap ekupaz hu rehoeje loen tuim tirelug hifjuvase cefjufe zojpon dume pub uropu dosgipcew. Ehaboha moj zibsuh ok capwiv iw decofe gabvoh javok pap girel kewazo wufi ka fuk lodwupnu invopo kupcod."
+  },
+  "apiKey": "95c6692d4b2772f6ef1420e0b826bdca6d37b97b811fbccfb67614c99421cd3d",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
