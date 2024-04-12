@@ -1,0 +1,26 @@
+{
+  "name": "Fred Chavez",
+  "age": 57,
+  "address": {
+    "street": "Lotiki Highway",
+    "city": "Imaicoro",
+    "state": "DE",
+    "zip": "64962"
+  },
+  "contact": {
+    "phone": "(327) 675-6027",
+    "servicePhone": "800538641"
+  },
+  "birthday": "1989-09-29T11:24:30.369Z",
+  "ip": "189.96.178.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivibik halzocki teco raejizeg ada godes nijevucu go nirmevmi nepvot wurnurik hus boroh tedji reni fus abavoneb. Bopawic sugho zobo atomikuz cef zelwozah tud degew edpuh ca lovugwel du gike ekgi ahori. Aweti hu wewgaka odfodni beb ja gaw dawa fukmu jeca liije sevodvo dolodub onobezelo sakocuho pabijwa.",
+    "bio": "Jama mi zuvussu dihekom cu co oguwukajo rig kuno bip ami ta piw limecetog rut migop. Di fapokbof levnenic gekaten atu saw amhitlos kic hetdum miriha pivfimha hotzahaf janunu ithole ofilhu. Nevopo bephad jigendok lumzolwu gifwuujo fa tejjahoh web puda vepha bivbaut soj pe irdepjo doz topawoba."
+  },
+  "apiKey": "1c238c10e5a178308ccf9350f5b792cb4ec979a724c01ee2b5cb61209406c5b1",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
